@@ -1,1 +1,5 @@
-Hello everyone Starting To solve Leetcode Questions of DSA.
+## 500+ Data Structures and Algorithms practice problems
+
+### Array
+
+[Two Sum – Pair with given Sum]("")
