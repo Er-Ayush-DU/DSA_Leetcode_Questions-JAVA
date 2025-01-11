@@ -2,4 +2,4 @@
 
 ### Array
 
-[Two Sum – Pair with given Sum]("Arrays/Two Sum – Pair with given Sum.java")
+[Two Sum – Pair with given Sum]("Array/Two_Sum_Pair.java")
