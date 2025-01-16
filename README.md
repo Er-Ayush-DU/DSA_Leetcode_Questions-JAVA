@@ -12,3 +12,5 @@
 <br>
 [Find Unique Element](https://github.com/Er-Ayush-DU/DSA_Leetcode_Questions-JAVA/blob/main/Arrays/FindUniqueElement.java)
 <br>
+[Intersection Between Two Arrays](https://github.com/Er-Ayush-DU/DSA_Leetcode_Questions-JAVA/blob/main/Arrays/Intersection_Bw_twoArray.java)
+<br>
