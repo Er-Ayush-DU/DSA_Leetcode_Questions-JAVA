@@ -40,11 +40,8 @@ public class Remove_nth_node_last {
         display(head.next);
     }
 
-
     }
-  
-  
-    
+
     
     public static void main(String[] args) {
       LinkedList ll= new LinkedList();
